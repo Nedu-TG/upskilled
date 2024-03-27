@@ -1,0 +1,4 @@
+<meta charset="UTF-8"> is a HyperText Markup Language that is used to indicate the web page's character encoding i.e convert information
+or instruction into a paricular form.
+This tag specifies the character encoding as UTF-8. As a result, the web page can display text in multiple languages and special characters correctly.
+Without this declaration, the text would not be properly encoded, leading to rendering issues.
